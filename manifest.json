@@ -1,0 +1,9 @@
+{
+    "name": "PWA-flutter",
+    "short_name": "pwa-flutter",
+    "theme_color": "#7b91a3",
+    "background_color": "#66aae0",
+    "display": "browser",
+    "scope": "/",
+    "start_url": "/"
+  }
